@@ -1,0 +1,11 @@
+{
+  "name": "Pirozhok",
+  "breed": "Samoyed",
+  "dogCharacteristics": {
+    "color": "white",
+    "nose": "black",
+    "tailWiggly": true,
+    "eyes": "cunning"
+  },
+  "age": 5
+}
